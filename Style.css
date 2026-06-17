@@ -58,6 +58,6 @@ html,body{
     columns: gray;
 }
 .section-dark{
-    background-color: black;
+    background-color: rgba(0, 0, 0, 0.967);
     color: white;
 }
